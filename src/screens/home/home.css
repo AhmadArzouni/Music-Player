@@ -1,0 +1,8 @@
+.main-body{
+
+    background-color:#E99D72;
+    height:100vh;
+    border-radius: 30 px;
+    width: 100vw;
+    display: flex;
+}

@@ -1,0 +1,18 @@
+.sidebar{
+
+
+
+    width:100px;
+    height:100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+ 
+}
+
+.image{
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+}
